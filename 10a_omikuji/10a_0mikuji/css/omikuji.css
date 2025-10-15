@@ -170,6 +170,18 @@ footer> p{
         height: 100%;
     }
 }
+.back{
+    text-align: left;
+}
+#btn99{
+padding: 0.4em;
+border-radius: 0.3em;
+color: whitesmoke;
+font-size: 1.5em;
+background: rgb(7, 240, 131);
+cursor: pointer; /*カーソルをポインターの形（かたち）にする*/
+}
+
 @media screen and (max-width: 480px) {
     body{
         background-position: 75% 0%;
