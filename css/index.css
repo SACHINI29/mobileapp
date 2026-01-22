@@ -105,6 +105,10 @@ a:hover{
     font-size: 0.7em;
 }
 
+.container01-04, .item01-1{
+    display:none;
+}
+
 .item01{
     position: relative;
     width: 6em;
@@ -172,4 +176,5 @@ footer> p {
     body{
         background-size: auto 1000px;
     }
+
 }
