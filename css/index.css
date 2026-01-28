@@ -23,7 +23,7 @@ body{
     Meiryo,
     sans-serif;
     text-align: center;
-    background-image: url(../img/thumb-1920-835213.JPG);
+    background-image: url(../img/fllw.jpg);
     background-size: cover;
     overflow: hidden;
 }
@@ -105,10 +105,6 @@ a:hover{
     font-size: 0.7em;
 }
 
-.container01-04{
-    display:none;
-}
-
 .item01{
     position: relative;
     width: 6em;
@@ -176,7 +172,4 @@ footer> p {
     body{
         background-size: auto 1000px;
     }
-
 }
-
-
